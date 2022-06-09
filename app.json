@@ -23,6 +23,16 @@
         "value": "",
         "required": true
       },
+      "SUPPORT_CHANNEL": {
+        "description": "YOUR CHANNEL LINL",
+        "value": "",
+        "required": false
+      },
+      "BOT_GROUP": {
+        "description": "Your group link",
+        "value": "",
+        "required": false
+      },
       "AUTO_LEAVING_ASSISTANT": {
         "description": "If you want your assistant to leave all chats automatically after some time.",
         "value": "True",
@@ -49,7 +59,7 @@
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram String Session. One Assistant is Compulsory.",
+        "description": "A Pyrogram String Session. Get it from @Sessionstring_genbot.",
         "value": "",
         "required": true
       },
